@@ -1,6 +1,6 @@
 # 🩺 DailyHealth.lk – Medical Information & Health Awareness Platform
 
-![DailyHealth Banner](uploads/profile_pictures/logoBL2 (7) (1).png)
+![DailyHealth Banner](uploads/profile_pictures/logoBL2(7)(1).png)
 
 **DailyHealth** is a digital health information platform dedicated to providing **accurate medical knowledge, health awareness content, and wellness programs** to help people maintain a healthy lifestyle.
 
